@@ -1,0 +1,6 @@
+@InstrumentSearch.Server_HostAddress = http://localhost:5227
+
+GET {{InstrumentSearch.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
